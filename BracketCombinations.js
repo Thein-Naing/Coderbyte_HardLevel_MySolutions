@@ -13,7 +13,7 @@ Tags
 
 combinatorics Google free */
 
-// Note: After reading discussions from coderbyte blog, can solve this challenge.
+// Note: If you have solved Brackets Matcher and  Multiple Brackets medium challenges, you can solve this challenge. For me, after reading discussions from coderbyte blog, can solve this challenge.
 
 function BracketCombinations(num) { 
 
