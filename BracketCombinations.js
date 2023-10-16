@@ -13,6 +13,8 @@ Tags
 
 combinatorics Google free */
 
+// Note: After reading discussions from coderbyte blog, can solve this challenge.
+
 function BracketCombinations(num) { 
 
   // code goes here  
