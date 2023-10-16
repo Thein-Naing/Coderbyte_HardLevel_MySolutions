@@ -41,8 +41,8 @@ function parentheses(left, right, str) {        /* 2. Create a helper function w
 }
 
   parentheses(num, 0, "");                      /* 6. Call helper function parentheses with num, 0 and empty string "". 
-                                                      num === first argument as given by challenge, 0 === second argument because we can not add right bracket before left bracket.
-                                                      "" === third argument because initially there is no complete brackets . */ 
+                                                      num === first argument as given by challenge, 0 === second argument because we can not add right bracket before adding left bracket.
+                                                       "" === third argument because initially there is no complete brackets . */ 
   return stack.length;                         // 7. After helper function call, just return stack using arr.length() method to find out number of bracket combination.
 }  
 // keep this function call here 
