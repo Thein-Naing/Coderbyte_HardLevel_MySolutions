@@ -30,7 +30,7 @@ function parentheses(left, right, str) {        /* 2. Create a helper function w
     parentheses(left-1, right+1, str+"(");
   }
   
-  if (right > 0) {                              // 4. If there is a rightt bracket left, then add it to str and update function.
+  if (right > 0) {                              // 4. If there is a right bracket left, then add it to str and update function.
     parentheses(left, right-1, str+")"); 
   }
   
