@@ -24,7 +24,7 @@ array  */
         
      /*  Given Statement: array starting from the Nth element where N is equal to the first integer in the array.
         1. example: given array ----> arr = [4,3,4,3,1,2]  and the first integer in the given array ----> arr[0] = 4  
-        2. Use arr.splice() method ----> arr.splice(existing element, new element). 
+        2. Use arr.splice() method ----> arr.splice(existing element, new element) ----> we will replace first integer 0 with integer 1( index 4 of array).
         3. then rotate array starting from the Nth element(arr[4]) where arr[4] = 1 and so rotating will start from 1.
         4. So arr.splice(0, arr[0]) become arr.splice(0,4) then joined array by using arr.concat() method.
            and rejoin element by using arr.join("").    */
