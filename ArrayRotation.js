@@ -20,7 +20,7 @@ array  */
     1. The concat() method concatenates (joins) two or more arrays. The concat() method returns a new array, containing the joined arrays.
        The concat() method does not change the existing arrays.
 
-    2. The splice() method lets to change the content of array by removing or replacing existing elements with new ones.  */
+    2. The splice() method lets us to change the content of array by removing or replacing existing elements with new ones.  */
         
      /*  Given Statement: array starting from the Nth element where N is equal to the first integer in the array.
         1. example: given array ----> arr = [4,3,4,3,1,2]  and the first integer in the given array ----> arr[0] = 4  
