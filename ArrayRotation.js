@@ -38,3 +38,16 @@ function ArrayRotation(arr) {
 // keep this function call here 
 console.log(ArrayRotation(readline()));
 
+
+// Alternative Method using For Loop:
+
+function ArrayRotation(arr) { 
+   
+ for (let i=0; i < arr[0]; i++) {
+          arr.push( arr[i] );
+      }
+     return arr.splice(arr[0]).join("");
+     
+     // keep this function call here 
+console.log(ArrayRotation(readline()));
+
