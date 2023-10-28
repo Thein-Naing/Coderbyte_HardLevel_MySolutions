@@ -14,5 +14,9 @@
 ![image](https://github.com/Thein-Naing/Coderbyte_HardLevel_MySolutions/assets/117463446/2a62b03c-4ebb-4db0-9886-6f5b9211704e)
 ![image](https://github.com/Thein-Naing/Coderbyte_HardLevel_MySolutions/assets/117463446/1e47371b-1c48-48b4-aaeb-c5ed1747abb8)
 
+`[3]CountingAnagrams`
+![image](https://github.com/Thein-Naing/Coderbyte_HardLevel_MySolutions/assets/117463446/28c4e6f6-09c1-4c4b-933d-62729f3f5d45)
+
+
 
 
